@@ -1,4 +1,6 @@
-node_modules
-dist/
-.tmp
-app.yaml
+/work-5/public/storage
+/work-5/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+.env
